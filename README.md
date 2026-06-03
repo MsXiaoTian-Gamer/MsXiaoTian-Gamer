@@ -14,10 +14,6 @@
 
 ### 🧑‍💻 About Me
 
-<table>
-<tr>
-<td width="60%">
-
 ```csharp
 class MsXiaoTian {
     public string Name = "萌神小天";
@@ -25,7 +21,7 @@ class MsXiaoTian {
     public string Role = "Game Developer";
     public string Engine = "Unity";
     public string Language = "C#";
-    
+
     public void Dream() {
         while (alive) {
             MakeGames();
@@ -36,14 +32,9 @@ class MsXiaoTian {
 }
 ```
 
-</td>
-<td width="40%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MsXiaoTian-Gamer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" />
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MsXiaoTian-Gamer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" />
+</p>
 
 ---
 
