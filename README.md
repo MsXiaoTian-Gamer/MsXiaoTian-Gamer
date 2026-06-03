@@ -15,15 +15,18 @@
 ### 🧑‍💻 About Me
 
 ```csharp
-class MsXiaoTian {
-    public string Name = "萌神小天";
-    public string University = "郑州轻工业大学";
-    public string Role = "Game Developer";
-    public string Engine = "Unity";
-    public string Language = "C#";
+class MsXiaoTian
+{
+    string Name     = "萌神小天";
+    string School   = "郑州轻工业大学";
+    string Role     = "Game Developer";
+    string Engine   = "Unity";
+    string Language = "C#";
 
-    public void Dream() {
-        while (alive) {
+    void Dream()
+    {
+        while (alive)
+        {
             MakeGames();
             HaveFun();
             ShareWithWorld();
