@@ -1,127 +1,84 @@
+<p align="center">
+  <img src="./assets/banner.svg" width="100%" alt="MsXiaoTian · Unity &amp; C# Game Developer — Small ideas. Playable worlds." />
+</p>
 
+<h1 align="center">Hi, I'm 萌神小天 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=%F0%9F%8E%AE+Hey%2C+I'm+MsXiaoTian!;%F0%9F%95%B9%EF%B8%8F+Game+Developer;%F0%9F%8E%AF+Unity+%2B+C%23+Lover" alt="Typing SVG" />
+  <strong>用 Unity 和 C#，把脑海中的小世界变成可以玩的游戏。</strong>
 </p>
 
 <p align="center">
-  <samp>
-    「 一个热爱用 Unity 和 C# 创造世界的游戏开发者 」
-  </samp>
+  🎓 郑州轻工业大学 &nbsp; · &nbsp; 🎮 Game Developer &nbsp; · &nbsp; 💜 Unity &amp; C#
+</p>
+
+<p align="center">
+  <a href="https://msxiaotian.itch.io/tiny-pet-sand-wars"><img src="https://img.shields.io/badge/试玩我的游戏-FA5C5C?style=for-the-badge&amp;logo=itchdotio&amp;logoColor=white" alt="在 itch.io 试玩我的游戏" /></a>
+  <a href="https://github.com/MsXiaoTian-Gamer?tab=repositories"><img src="https://img.shields.io/badge/探索代码-8B5CF6?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="查看我的 GitHub 仓库" /></a>
+  <a href="mailto:MsXiaoTian@icloud.com"><img src="https://img.shields.io/badge/联系我-6366F1?style=for-the-badge&amp;logo=maildotru&amp;logoColor=white" alt="发送邮件联系我" /></a>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+## 🎮 作品 · Featured Game
+
+### [Tiny Pet Sand Wars ↗](https://msxiaotian.itch.io/tiny-pet-sand-wars)
+
+一只小宠物，一片沙盒世界，一场趣味对战冒险。
+
+使用 **Unity + C#** 打造，把关于游戏的小想法，一点点变成真实的互动体验。
+
+[**进入游戏 →**](https://msxiaotian.itch.io/tiny-pet-sand-wars)
+
+## 👾 关于我 · About Me
 
 ```csharp
-class MsXiaoTian
+public class MsXiaoTian
 {
-    string Name     = "萌神小天";
-    string School   = "郑州轻工业大学";
-    string Role     = "Game Developer";
-    string Engine   = "Unity";
-    string Language = "C#";
+    public string Name   => "萌神小天";
+    public string School => "郑州轻工业大学";
+    public string Engine => "Unity";
+    public string Code   => "C#";
 
-    void Dream()
+    public string[] ThingsILove => new[]
     {
-        while (alive)
-        {
-            MakeGames();
-            HaveFun();
-            ShareWithWorld();
-        }
-    }
+        "创造可以探索的世界",
+        "把灵感变成有趣的玩法",
+        "分享自己做的游戏"
+    };
 }
 ```
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MsXiaoTian-Gamer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" />
+## 🛠️ 开发工具 · My Toolkit
+
+**游戏与创作**
+
+<p>
+  <img src="https://img.shields.io/badge/Unity-222222?style=for-the-badge&amp;logo=unity&amp;logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/C%23-7C3AED?style=for-the-badge" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&amp;logo=dotnet&amp;logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/Blender-EA7600?style=for-the-badge&amp;logo=blender&amp;logoColor=white" alt="Blender" />
 </p>
 
----
+**编码与版本管理**
 
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+<p>
+  <img src="https://img.shields.io/badge/Visual_Studio-6D42A1?style=for-the-badge" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
 </p>
 
----
+## 🌱 探索更多 · Around GitHub
 
-### 📊 GitHub Stats
+除了成品游戏，这里也记录着我的代码与创作。
 
-- 📂 公开仓库数: [查看](https://github.com/MsXiaoTian-Gamer?tab=repositories)
-- ⭐ Stars: [查看](https://github.com/MsXiaoTian-Gamer?tab=stars)
-- 🏆 Trophy: [查看](https://github.com/MsXiaoTian-Gamer?tab=achievements)
-
----
-
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MsXiaoTian-Gamer&theme=tokyonight&no-frame=true&column=7&margin-w=10&bg_color=0D1117&title_color=6C63FF" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MsXiaoTian-Gamer/MsXiaoTian-Gamer/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MsXiaoTian-Gamer/MsXiaoTian-Gamer/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MsXiaoTian-Gamer/MsXiaoTian-Gamer/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
----
-
-### 🎮 My Games
-
-<table>
-<tr>
-<td align="center">
-  <a href="https://msxiaotian.itch.io/tiny-pet-sand-wars">
-    <img src="https://img.shields.io/badge/🎮_Play_on_itch.io-Tiny_Pet_Sand_Wars-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" />
-  </a>
-  <br/>
-  <br/>
-  <samp>一只小宠物在沙盒世界中冒险的趣味对战游戏！</samp>
-  <br/>
-  <samp>用 Unity 和 C# 精心打造 &nbsp;|&nbsp; 持续更新中 🔥</samp>
-</td>
-</tr>
-</table>
-
----
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://msxiaotian.itch.io/tiny-pet-sand-wars">
-    <img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" />
-  </a>
-  <a href="https://github.com/MsXiaoTian-Gamer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:MsXiaoTian@icloud.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+| 📦 代码仓库 | ⭐ 我的收藏 | 🎮 游戏主页 |
+| :--- | :--- | :--- |
+| [浏览项目与代码](https://github.com/MsXiaoTian-Gamer?tab=repositories) | [看看让我获得灵感的项目](https://github.com/MsXiaoTian-Gamer?tab=stars) | [访问 itch.io](https://msxiaotian.itch.io) |
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MsXiaoTian-Gamer&color=6C63FF&style=flat-square&label=Profile+Views" />
+  <strong>Make games. Have fun. Share with the world.</strong><br />
+  <sub>感谢来访，愿我们都能做出自己喜欢的游戏。 ✨</sub>
 </p>
-
-<p align="center">
-  <samp>⭐ From <a href="https://github.com/MsXiaoTian-Gamer">MsXiaoTian-Gamer</a></samp>
-</p>
-
-<!--
-  Thanks for visiting! If you like my profile README, feel free to fork it.
-  Made with ❤️ by MsXiaoTian-Gamer
--->
-
