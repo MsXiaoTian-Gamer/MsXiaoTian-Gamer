@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-labelledby="title">
+  <title id="title">Thanks for playing. See you in the next world.</title>
+  <defs><linearGradient id="bg"><stop stop-color="#111128"/><stop offset=".5" stop-color="#282043"/><stop offset="1" stop-color="#111128"/></linearGradient></defs>
+  <rect width="1200" height="150" rx="20" fill="url(#bg)"/>
+  <path d="M0 1h1200" stroke="#a78bfa" stroke-opacity=".3"/>
+  <text x="600" y="65" text-anchor="middle" fill="#ddd6fe" font-family="monospace" font-size="21" letter-spacing="3">THANKS FOR PLAYING</text>
+  <text x="600" y="102" text-anchor="middle" fill="#a89cbd" font-family="Segoe UI,Arial,sans-serif" font-size="16">See you in the next world.</text>
+</svg>

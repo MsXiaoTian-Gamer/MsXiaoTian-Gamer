@@ -19,17 +19,28 @@
   <a href="mailto:MsXiaoTian@icloud.com"><img src="https://img.shields.io/badge/联系我-6366F1?style=for-the-badge&amp;logo=maildotru&amp;logoColor=white" alt="发送邮件联系我" /></a>
 </p>
 
----
+<p align="center">
+  <a href="#games">🎮 游戏作品</a> &nbsp; / &nbsp;
+  <a href="#about">👾 关于我</a> &nbsp; / &nbsp;
+  <a href="#toolkit">🛠️ 开发工具</a> &nbsp; / &nbsp;
+  <a href="#connect">🌱 找到我</a>
+</p>
+
+<a name="games"></a>
 
 ## 🎮 作品 · Featured Game
 
-### [Tiny Pet Sand Wars ↗](https://msxiaotian.itch.io/tiny-pet-sand-wars)
+<a href="https://msxiaotian.itch.io/tiny-pet-sand-wars">
+  <img src="./assets/game-card.svg" width="100%" alt="Tiny Pet Sand Wars · Unity / C# · 点击前往 itch.io（装饰性作品封面，非游戏截图）" />
+</a>
 
-一只小宠物，一片沙盒世界，一场趣味对战冒险。
+> 一只小宠物，一片沙盒世界，一场趣味对战冒险。
 
 使用 **Unity + C#** 打造，把关于游戏的小想法，一点点变成真实的互动体验。
 
-[**进入游戏 →**](https://msxiaotian.itch.io/tiny-pet-sand-wars)
+[**🎮 试玩 Tiny Pet Sand Wars →**](https://msxiaotian.itch.io/tiny-pet-sand-wars) &nbsp; · &nbsp; [**🕹️ 浏览我的 TapTap 作品 →**](https://www.taptap.cn/user/683054906/works)
+
+<a name="about"></a>
 
 ## 👾 关于我 · About Me
 
@@ -50,9 +61,11 @@ public class MsXiaoTian
 }
 ```
 
+<a name="toolkit"></a>
+
 ## 🛠️ 开发工具 · My Toolkit
 
-**游戏与创作**
+<p><sub>GAME DEVELOPMENT &amp; CREATION</sub></p>
 
 <p>
   <img src="https://img.shields.io/badge/Unity-222222?style=for-the-badge&amp;logo=unity&amp;logoColor=white" alt="Unity" />
@@ -61,7 +74,7 @@ public class MsXiaoTian
   <img src="https://img.shields.io/badge/Blender-EA7600?style=for-the-badge&amp;logo=blender&amp;logoColor=white" alt="Blender" />
 </p>
 
-**编码与版本管理**
+<p><sub>CODE &amp; WORKFLOW</sub></p>
 
 <p>
   <img src="https://img.shields.io/badge/Visual_Studio-6D42A1?style=for-the-badge" alt="Visual Studio" />
@@ -69,17 +82,27 @@ public class MsXiaoTian
   <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
 </p>
 
+<a name="connect"></a>
+
 ## 🌱 探索更多 · Find Me Online
 
 除了成品游戏，这里也记录着我的代码与创作。
 
-| 📦 代码仓库 | ⭐ 我的收藏 | 🎮 itch.io | 🕹️ TapTap |
-| :--- | :--- | :--- | :--- |
-| [浏览项目与代码](https://github.com/MsXiaoTian-Gamer?tab=repositories) | [看看让我获得灵感的项目](https://github.com/MsXiaoTian-Gamer?tab=stars) | [访问游戏主页](https://msxiaotian.itch.io) | [查看我的作品](https://www.taptap.cn/user/683054906/works) |
+| 平台 | 传送门 |
+| :--- | :--- |
+| 🎮 **itch.io** | [玩玩我做的游戏 →](https://msxiaotian.itch.io) |
+| 🕹️ **TapTap** | [探索我的作品 →](https://www.taptap.cn/user/683054906/works) |
+| 📦 **GitHub** | [浏览项目与代码 →](https://github.com/MsXiaoTian-Gamer?tab=repositories) |
+| ⭐ **Stars** | [发现让我获得灵感的项目 →](https://github.com/MsXiaoTian-Gamer?tab=stars) |
+| ✉️ **Email** | [MsXiaoTian@icloud.com](mailto:MsXiaoTian@icloud.com) |
 
 ---
 
 <p align="center">
   <strong>Make games. Have fun. Share with the world.</strong><br />
   <sub>感谢来访，愿我们都能做出自己喜欢的游戏。 ✨</sub>
+</p>
+
+<p align="center">
+  <img src="./assets/footer.svg" width="100%" alt="Thanks for playing. See you in the next world." />
 </p>
