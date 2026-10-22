@@ -14,6 +14,7 @@
 
 <p align="center">
   <a href="https://msxiaotian.itch.io/tiny-pet-sand-wars"><img src="https://img.shields.io/badge/试玩我的游戏-FA5C5C?style=for-the-badge&amp;logo=itchdotio&amp;logoColor=white" alt="在 itch.io 试玩我的游戏" /></a>
+  <a href="https://www.taptap.cn/user/683054906/works"><img src="https://img.shields.io/badge/TapTap_作品-00B8A9?style=for-the-badge" alt="查看我的 TapTap 作品" /></a>
   <a href="https://github.com/MsXiaoTian-Gamer?tab=repositories"><img src="https://img.shields.io/badge/探索代码-8B5CF6?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="查看我的 GitHub 仓库" /></a>
   <a href="mailto:MsXiaoTian@icloud.com"><img src="https://img.shields.io/badge/联系我-6366F1?style=for-the-badge&amp;logo=maildotru&amp;logoColor=white" alt="发送邮件联系我" /></a>
 </p>
@@ -68,13 +69,13 @@ public class MsXiaoTian
   <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
 </p>
 
-## 🌱 探索更多 · Around GitHub
+## 🌱 探索更多 · Find Me Online
 
 除了成品游戏，这里也记录着我的代码与创作。
 
-| 📦 代码仓库 | ⭐ 我的收藏 | 🎮 游戏主页 |
-| :--- | :--- | :--- |
-| [浏览项目与代码](https://github.com/MsXiaoTian-Gamer?tab=repositories) | [看看让我获得灵感的项目](https://github.com/MsXiaoTian-Gamer?tab=stars) | [访问 itch.io](https://msxiaotian.itch.io) |
+| 📦 代码仓库 | ⭐ 我的收藏 | 🎮 itch.io | 🕹️ TapTap |
+| :--- | :--- | :--- | :--- |
+| [浏览项目与代码](https://github.com/MsXiaoTian-Gamer?tab=repositories) | [看看让我获得灵感的项目](https://github.com/MsXiaoTian-Gamer?tab=stars) | [访问游戏主页](https://msxiaotian.itch.io) | [查看我的作品](https://www.taptap.cn/user/683054906/works) |
 
 ---
 
