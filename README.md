@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="MsXiaoTian · Unity &amp; C# Game Developer — Small ideas. Playable worlds." />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg" />
+    <img src="./assets/banner.svg" width="100%" alt="MsXiaoTian · Unity &amp; C# Game Developer — Small ideas. Playable worlds." />
+  </picture>
 </p>
 
 <h1 align="center">Hi, I'm 萌神小天 👋</h1>
@@ -13,10 +16,10 @@
 </p>
 
 <p align="center">
-  <a href="https://msxiaotian.itch.io/tiny-pet-sand-wars"><img src="https://img.shields.io/badge/试玩我的游戏-FA5C5C?style=for-the-badge&amp;logo=itchdotio&amp;logoColor=white" alt="在 itch.io 试玩我的游戏" /></a>
-  <a href="https://www.taptap.cn/user/683054906/works"><img src="https://img.shields.io/badge/TapTap_作品-00B8A9?style=for-the-badge" alt="查看我的 TapTap 作品" /></a>
-  <a href="https://github.com/MsXiaoTian-Gamer?tab=repositories"><img src="https://img.shields.io/badge/探索代码-8B5CF6?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="查看我的 GitHub 仓库" /></a>
-  <a href="mailto:MsXiaoTian@icloud.com"><img src="https://img.shields.io/badge/联系我-6366F1?style=for-the-badge&amp;logo=maildotru&amp;logoColor=white" alt="发送邮件联系我" /></a>
+  <a href="https://msxiaotian.itch.io/tiny-pet-sand-wars"><img src="./assets/play.svg" alt="在 itch.io 试玩我的游戏" /></a>
+  <a href="https://www.taptap.cn/user/683054906/works"><img src="./assets/taptap.svg" alt="查看我的 TapTap 作品" /></a>
+  <a href="https://github.com/MsXiaoTian-Gamer?tab=repositories"><img src="./assets/code.svg" alt="查看我的 GitHub 仓库" /></a>
+  <a href="mailto:MsXiaoTian@icloud.com"><img src="./assets/contact.svg" alt="发送邮件联系我" /></a>
 </p>
 
 <p align="center">
@@ -28,10 +31,13 @@
 
 <a name="games"></a>
 
-## 🎮 作品 · Featured Game
+## 🎮 01 / 游戏作品
 
 <a href="https://msxiaotian.itch.io/tiny-pet-sand-wars">
-  <img src="./assets/game-card.svg" width="100%" alt="Tiny Pet Sand Wars · Unity / C# · 点击前往 itch.io（装饰性作品封面，非游戏截图）" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="./assets/game-card-light.svg" />
+    <img src="./assets/game-card.svg" width="100%" alt="Tiny Pet Sand Wars · Unity / C# · 点击前往 itch.io（装饰性作品封面，非游戏截图）" />
+  </picture>
 </a>
 
 > 一只小宠物，一片沙盒世界，一场趣味对战冒险。
@@ -42,7 +48,7 @@
 
 <a name="about"></a>
 
-## 👾 关于我 · About Me
+## 👾 02 / 关于我
 
 ```csharp
 public class MsXiaoTian
@@ -52,39 +58,34 @@ public class MsXiaoTian
     public string Engine => "Unity";
     public string Code   => "C#";
 
-    public string[] ThingsILove => new[]
-    {
-        "创造可以探索的世界",
-        "把灵感变成有趣的玩法",
-        "分享自己做的游戏"
-    };
+    public string Motto  => "Make games. Have fun. Share with the world.";
 }
 ```
 
 <a name="toolkit"></a>
 
-## 🛠️ 开发工具 · My Toolkit
+## 🛠️ 03 / 开发工具
 
-<p><sub>GAME DEVELOPMENT &amp; CREATION</sub></p>
+**游戏与创作** <sub> / GAME DEVELOPMENT</sub>
 
 <p>
-  <img src="https://img.shields.io/badge/Unity-222222?style=for-the-badge&amp;logo=unity&amp;logoColor=white" alt="Unity" />
-  <img src="https://img.shields.io/badge/C%23-7C3AED?style=for-the-badge" alt="C#" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&amp;logo=dotnet&amp;logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/Blender-EA7600?style=for-the-badge&amp;logo=blender&amp;logoColor=white" alt="Blender" />
+  <img src="./assets/unity.svg" alt="Unity" />
+  <img src="./assets/csharp.svg" alt="C#" />
+  <img src="./assets/dotnet.svg" alt=".NET" />
+  <img src="./assets/blender.svg" alt="Blender" />
 </p>
 
-<p><sub>CODE &amp; WORKFLOW</sub></p>
+**编码与协作** <sub> / CODE &amp; WORKFLOW</sub>
 
 <p>
-  <img src="https://img.shields.io/badge/Visual_Studio-6D42A1?style=for-the-badge" alt="Visual Studio" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
+  <img src="./assets/visual-studio.svg" alt="Visual Studio" />
+  <img src="./assets/git.svg" alt="Git" />
+  <img src="./assets/github.svg" alt="GitHub" />
 </p>
 
 <a name="connect"></a>
 
-## 🌱 探索更多 · Find Me Online
+## 🌱 04 / 找到我
 
 除了成品游戏，这里也记录着我的代码与创作。
 
@@ -104,5 +105,8 @@ public class MsXiaoTian
 </p>
 
 <p align="center">
-  <img src="./assets/footer.svg" width="100%" alt="Thanks for playing. See you in the next world." />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="./assets/footer-light.svg" />
+    <img src="./assets/footer.svg" width="100%" alt="Thanks for playing. See you in the next world." />
+  </picture>
 </p>
